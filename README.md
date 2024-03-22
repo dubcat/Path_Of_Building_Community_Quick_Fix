@@ -1,7 +1,5 @@
 <h1 align="center">Path of Building Community 3.24 Quick Fix</h1>
 
-## ⚠️ Path of Building Community has been updated, there is no need to install this patch anymore ⚠️ ##
-
 ## 🚀 Quickstart
 
 1. **Get the Fresh Base**:
